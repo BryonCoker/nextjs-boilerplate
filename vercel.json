@@ -16,11 +16,5 @@
       "status": 404,
       "dest": "/api/format"
     }
-  ],
-  "functions": {
-    "api/*.js": {
-      "memory": 128,
-      "maxDuration": 10
-    }
-  }
+  ]
 }
